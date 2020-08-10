@@ -201,8 +201,8 @@ function App() {
               <h3>Live Cases by Country</h3>
               <Table countries={tableData}/>
             </div>
-            <div className="news-container">
               <h2>Google News - Latest</h2>
+            <div className="news-container">
               <News/>
             </div>
           </CardContent>
